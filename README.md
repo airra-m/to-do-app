@@ -1,2 +1,2 @@
-# to-do-app
-Created with CodeSandbox
+# To-do React App
+Created using React on CodeSandbox. Basic functionality with no backend.
